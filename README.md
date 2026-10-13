@@ -5,6 +5,7 @@
 The **Student Enrollment Dashboard** is a data visualization project built with Google Looker Studio using student enrollment data stored in Microsoft Excel. It helps explore enrollment patterns, student demographics, attendance, scholarships, and placement outcomes through interactive charts and filters.
 
 > **Project status:** Add a published Looker Studio report link and dashboard screenshots when available.
+>  Live Link: https://datastudio.google.com/reporting/c5aca044-0da2-4632-82da-ac80f9f19f7c
 
 ## Objectives
 
